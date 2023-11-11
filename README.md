@@ -3,7 +3,7 @@
 I am a highly motivated Web Developer and aspiring Security Engineer. I am currently learning Front-End Web Development and fundamentals of Cybersecurity. <br><br>
 [![wakatime](https://wakatime.com/badge/user/018b3273-6dfa-4b1e-b0de-240ecca9b5fa.svg)](https://wakatime.com/@018b3273-6dfa-4b1e-b0de-240ecca9b5fa)
 
-#### LET'S CONNECT <br>
+#### LET'S CONNECT
 <a href="https://twitter.com/0x5412">![Twitter](https://img.shields.io/badge/0x5412-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)</a>
 <a href="https://discord.com/users/684781922911911938">![Discord](https://img.shields.io/badge/%3Cthelocalgodd%3E-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)</a>
 <a href="https://www.linkedin.com/in/vincent-kwaku-kpemlie-60b00a287/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)</a>
