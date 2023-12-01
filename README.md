@@ -20,3 +20,7 @@ I am a highly motivated Web Developer and aspiring Security Engineer. I am curre
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)
 ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?logo=gitpod&logoColor=white&style=for-the-badge)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white&style=for-the-badge)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thelocalgodd&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thelocalgodd&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thelocalgodd&theme=dark)
