@@ -1,8 +1,8 @@
-### hey there i'm Vincent
+# hey there i'm Vincent
 
 ![chrome](dinoChrome.gif)
 
-I am a highly motivated Web Developer and aspiring Security Engineer. I am currently learning Front-End Web Development and fundamentals of Cybersecurity. <br><br>
+### I am a highly motivated Web Developer and aspiring Security Engineer. I am currently learning Front-End Web Development and fundamentals of Cybersecurity. <br><br>
 [![wakatime](https://wakatime.com/badge/user/018b3273-6dfa-4b1e-b0de-240ecca9b5fa.svg)](https://wakatime.com/@018b3273-6dfa-4b1e-b0de-240ecca9b5fa)
 
 #### LET'S CONNECT
@@ -15,6 +15,8 @@ I am a highly motivated Web Developer and aspiring Security Engineer. I am curre
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)
