@@ -8,7 +8,7 @@
 #### LET'S CONNECT
 <a href="https://twitter.com/0x5412">![Twitter](https://img.shields.io/badge/0x5412-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)</a>
 <a href="https://discord.com/users/684781922911911938">![Discord](https://img.shields.io/badge/%3Cthelocalgodd%3E-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)</a>
-<a href="https://www.linkedin.com/in/vincent-kwaku-kpemlie-60b00a287/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)</a>
+<a href="https://www.linkedin.com/in/vkkpemlie/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)</a>
 <a href="mailto:splashvincentk@outlook.com">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge)</a>
 
 #### LANGUAGES | TOOLS
