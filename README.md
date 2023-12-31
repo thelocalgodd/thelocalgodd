@@ -4,6 +4,7 @@
 
 ### I am a highly motivated Web Developer and aspiring Security Engineer. I am currently learning Front-End Web Development and fundamentals of Cybersecurity. <br><br>
 [![wakatime](https://wakatime.com/badge/user/018b3273-6dfa-4b1e-b0de-240ecca9b5fa.svg)](https://wakatime.com/@018b3273-6dfa-4b1e-b0de-240ecca9b5fa)
+![](https://komarev.com/ghpvc/?username=thelocalgodd)
 
 #### LET'S CONNECT
 <a href="https://twitter.com/0x5412">![Twitter](https://img.shields.io/badge/0x5412-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)</a>
