@@ -23,6 +23,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)
 ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?logo=gitpod&logoColor=white&style=for-the-badge)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white&style=for-the-badge)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thelocalgodd&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thelocalgodd&theme=dark)
