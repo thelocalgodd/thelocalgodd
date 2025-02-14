@@ -11,7 +11,6 @@ I am currently learning Solidity for Blockchain Development.
 
 <a href="https://twitter.com/dzidula_1">![X Badge](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=flat)</a>
 <a href="https://discord.com/users/684781922911911938">![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)</a>
-<a href="https://www.linkedin.com/in/vkkpemlie/">![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)</a>
 
 #### LANGUAGES | FRAMEWORKS | LIBRARIES | TOOLS
 
